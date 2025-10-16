@@ -7,3 +7,5 @@ Primeiro projeto utilizando o **Git** e **Github** apredendo pelo Empowerdata.
 - Criado nova branch 'nova_branch'
 
 - Adicionado uma nova funcionalidade
+
+- Adicionei uma nova funcionalidade cadastro cliente
